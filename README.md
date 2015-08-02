@@ -2,6 +2,25 @@
 
 Ejemplos de aplicaciones web y recursos de las tecnologías de los cursos de desarrollo web ofrecidos por el [Grupo Calumet](http://cormoran.uis.edu.co/calumet).
 
+## Recursos de desarrollo web
+
+- Libros de programación:
+  - [Libros Web](http://librosweb.es)
+  - [Biblioteca Etnassoft](http://www.etnassoft.com/biblioteca)
+  - [IT Ebooks](http://www.it-ebooks.info)
+  - [Free programming books list](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+- Guías, tutoriales y posts de sitios web:
+  - [Mozilla Developer Network - Web technologies for developers](https://developer.mozilla.org/es/docs/Web)
+  - [DesarrolloWeb.com](http://www.desarrolloweb.com)
+  - [W3Schools](http://www.w3schools.com)
+  - [Tutorials Point](http://www.tutorialspoint.com)
+- Plataformas web de aprendizaje:
+  - [CodeCademy](http://www.codecademy.com)
+  - [Udacity](http://www.udacity.com)
+- Playgrounds:
+  - [JSBin](http://jsbin.com)
+  - [Tutorials Point Codeground](http://www.tutorialspoint.com/codingground.htm)
+
 ## Arquitectura cliente-servidor
 
 Comprender cómo funciona el modelo de arquitectura cliente-servidor, el protocolo de comunicación HTTP y cómo las tecnologías web más usadas trabajan en conjunto.
@@ -24,10 +43,12 @@ Conocer qué herramientas libres se pueden utilizar para desarrollar aplicacione
 Algunas herramientas libres recomendadas:
 
 - Distribución de GNU/Linux: [Ubuntu](http://ubuntu.com)
-- Servicio de hosting de proyectos de código: [GitHub](http://github.com)
 - Entorno integrado de desarrollo: [NetBeans IDE](http://netbeans.org)
 - Editor de código: [Atom Editor](http://atom.io)
 - Administrador de bases de datos: [DBeaver](http://dbeaver.jkiss.org)
+- Servicio de hosting de proyectos de código: [GitHub](http://github.com)
+- Administrador de tareas: [Trello](http://trello.com)
+- Comunicación: [Google Hangouts](http://www.google.com/hangouts)
 
 ## HTML5
 
