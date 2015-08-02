@@ -1,6 +1,6 @@
 # Calumet Aprender
 
-Ejemplos de aplicaciones web y recursos de los cursos de desarrollo web ofrecidos por el [Grupo Calumet](http://cormoran.uis.edu.co/calumet).
+Ejemplos de aplicaciones web y recursos de las tecnologías de los cursos de desarrollo web ofrecidos por el [Grupo Calumet](http://cormoran.uis.edu.co/calumet).
 
 ## Arquitectura cliente-servidor
 
@@ -31,27 +31,50 @@ Algunas herramientas libres recomendadas:
 
 ## HTML5
 
-Ejemplos en desarrollo.
+Experimentar con el lenguaje de marcado que utiliza la web, HTML en su versión 5.
+
+- [HTML5 doctor](http://html5doctor.com)
+- [Introducción a XHTML](http://librosweb.es/libro/xhtml)
+- [HTML5: The Missing Manual, 2nd Edition](http://www.it-ebooks.info/book/3136)
 
 ## CSS3
 
-Ejemplos en desarrollo.
+Manos en el diseño de páginas web modernas y dinámicas con CSS en su versión 3.
+
+- [Introducción a CSS](http://librosweb.es/libro/css)
+- [CSS avanzado](http://librosweb.es/libro/css_avanzado)
+- [CSS3: The Missing Manual, 3rd Edition](http://it-ebooks.info/book/1356)
 
 ## JavaScript
 
-Ejemplos en desarrollo.
+Aprender a desarrollar aplicaciones web dinámicas e interactivas en el lado del navegador con JavaScript.
+
+- [Introducción a JavaScript](http://librosweb.es/libro/javascript)
+- [JavaScript: The Good Parts](http://it-ebooks.info/book/274)
 
 ## jQuery Library
 
-Ejemplos en desarrollo.
+Conocer cómo usar la biblioteca JavaScript jQuery para facilitar el desarrollo de sitios web interactivos.
+
+- [Fundamentos de jQuery](http://librosweb.es/libro/fundamentos_jquery)
+- [Libro de jQuery](http://librojquery.com)
+- [Introducción a jQuery](http://prhone.blogspot.com/2013/05/introduccion-la-libreria-javascript.html)
+- [Referencia de la API de jQuery](http://www.oscarotero.com/jquery)
+- [Manual de jQuery](http://www.desarrolloweb.com/manuales/manual-jquery.html)
 
 ## JavaServer Pages
 
-Ejemplos en desarrollo.
+Implementar la tecnología [JavaServer Pages](https://es.wikipedia.org/wiki/JavaServer_Pages) junto con [Apache Tomcat](https://es.wikipedia.org/wiki/Tomcat) para crear servidor web.
+
+- [JSP Tutorial](http://www.tutorialspoint.com/jsp)
+- [Beginning JSP, JSF and Tomcat 2nd Edition](http://it-ebooks.info/read/1478)
 
 ## JavaServer Pages y MySQL
 
-Ejemplos en desarrollo.
+Desarrollar bases de datos con MySQL y cómo conectarlas con un servidor Java en JavaServer Pages.
+
+- [Manual de MySQL](http://www.desarrolloweb.com/manuales/9)
+- [Learning MySQL](http://it-ebooks.info/book/1624)
 
 ## Licencia
 
