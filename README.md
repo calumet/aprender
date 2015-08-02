@@ -8,7 +8,7 @@ Ejemplos de aplicaciones web y recursos de las tecnologías de los cursos de des
   - [Libros Web](http://librosweb.es)
   - [Biblioteca Etnassoft](http://www.etnassoft.com/biblioteca)
   - [IT Ebooks](http://www.it-ebooks.info)
-  - [Free programming books list](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+  - [Libros gratuitos de programación web](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-es.md)
 - Guías, tutoriales y posts de sitios web:
   - [Mozilla Developer Network - Web technologies for developers](https://developer.mozilla.org/es/docs/Web)
   - [DesarrolloWeb.com](http://www.desarrolloweb.com)
