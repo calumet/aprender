@@ -1,0 +1,97 @@
+
+body{
+	background-color: #f2f2f2;
+	color: #555;
+}
+.contenido{
+	width: 700px;
+	margin: 0 auto;
+	border: 1px solid #eee;
+	background-color: #fafafa;
+	padding: 20px;
+}
+.linea{
+	padding: 5px;
+}
+/* -- para los imputs y elementos del formulario -- */
+label{
+
+} 
+
+input[type='text'],select{
+	background-color: #fff;
+	border-radius: 3px;
+	padding: 3px 5px;
+	margin: 2px;
+	margin-left: 10px;
+	border: 1px solid #ddd;
+	box-shadow: inset 0 0 10px #eee,0 0 5px #eee;
+}
+input[type='text']:active,input[type='text']:focus,select:focus{
+	outline: 0;
+	border-color: rgba(82, 168, 236, 0.47);
+	-webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+	-moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+}
+button{
+	position: relative;
+	font-weight: normal;
+	outline: 0;
+	margin: 5px;
+	cursor: pointer;
+	display: inline-block;
+	background-color: #E6E6E6;
+	background-repeat: no-repeat;
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#FFF), color-stop(25%, #FFF), to(#E6E6E6));
+	background-image: -webkit-linear-gradient(#FFF, #FFF 25%, #E6E6E6);
+	background-image: -moz-linear-gradient(top, #FFF, #FFF 25%, #E6E6E6);
+	background-image: -ms-linear-gradient(#FFF, #FFF 25%, #E6E6E6);
+	background-image: -o-linear-gradient(#FFF, #FFF 25%, #E6E6E6);
+	background-image: linear-gradient(#FFF, #FFF 25%, #E6E6E6);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#e6e6e6', GradientType=0);
+	padding: 2px 10px 4px 10px;
+	text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+	color: #333;
+	font-size: 14px;
+	line-height: normal;
+	border: 1px solid #CCC;
+	border-bottom-color: #BBB;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+	-moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+	-webkit-transition: 0.1s linear all;
+	-moz-transition: 0.1s linear all;
+	-ms-transition: 0.1s linear all;
+	-o-transition: 0.1s linear all;
+	transition: 0.1s linear all;
+	min-height: 28px;
+}
+/*-- tablas --*/
+#datos {
+	display: inline-block;
+	margin-top: 10px;
+}
+table {
+	max-width: 100%;
+	background-color: rgba(0, 0, 0, 0);
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+table th {
+	font-weight: bold;
+	vertical-align: middle;
+	font-size: 13px;
+}
+table th, table td {
+	padding: 4px 5px;
+	line-height: 20px;
+	text-align: left;
+	vertical-align: top;
+	border-top: 1px solid #DBDEE2;
+	vertical-align: middle;
+	font-size: 14px;
+}
