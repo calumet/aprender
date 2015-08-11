@@ -1,0 +1,22 @@
+/* styles */
+
+body {
+  margin: 20px;
+  font-family: sans-serif;
+  font-size: 1em;
+  line-height: 1.5;
+  background-color: #FFF;
+  color: #444;
+}
+
+.container {
+  margin: 0 auto;
+  width: auto;
+  max-width: 1000px;
+  min-width: 280px;
+  text-align: center;
+}
+
+.container img {
+  max-width: 100%;
+}
