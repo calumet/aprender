@@ -4,7 +4,7 @@ Recursos para aprender y ejemplos de aplicaciones web de las tecnologías de los
 
 Se asumen conocimientos en programación orientada a objetos, experiencia básica con el lenguaje de programación Java y nivel intermedio de lectura y comprensión en inglés.
 
-<img src="tech-tools.png" alt="Logos de tecnologías implementadas en Calumet">
+<img src="tech-logos.png" alt="Logos de tecnologías implementadas en Calumet">
 
 Si es un instructor, puede usar algunas de las directivas en la [guía para instructores](instructors.md). 
 
