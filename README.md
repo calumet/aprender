@@ -162,7 +162,7 @@ Experimenta cómo realizar peticiones asíncronas en un sitio web para convertir
 Implementar la tecnología [JavaServer Pages](https://es.wikipedia.org/wiki/JavaServer_Pages) (de [Java EE](https://es.wikipedia.org/wiki/Java_EE)) junto con [Apache Tomcat](https://es.wikipedia.org/wiki/Tomcat) para crear servidor web.
 
 - [JSP Tutorial](http://www.tutorialspoint.com/jsp)
-- [Beginning JSP, JSF and Tomcat 2nd Edition](http://it-ebooks.info/read/1478)
+- [Beginning JSP, JSF and Tomcat 2nd Edition](http://it-ebooks.info/book/1478)
 
 
 ## JavaServer Pages y MySQL
