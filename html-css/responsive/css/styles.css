@@ -1,0 +1,52 @@
+/* styles */
+
+/*
+ * Basic
+ */
+
+body {
+  margin: 20px;
+  font-size: 16px;
+  line-height: 1.5;
+
+  /* Utilizar una fuente de texto personalizada */
+  font-family: 'Indie Flower', cursive;
+  color: #555;
+}
+
+.wrapper {
+  max-width: 900px;
+  min-width: 280px;
+}
+
+img {
+  max-width: 100%;
+}
+
+
+/*
+ * Header
+ */
+
+.header__logo,
+.header__title {
+  float: left;
+}
+
+.header__logo {
+  height: 60px;
+  margin: 5px 10px 0 0;
+}
+
+.header__inner {
+  margin-bottom: 20px;
+}
+
+
+/*
+ * Footer
+ */
+
+footer {
+  color: gray;
+}
