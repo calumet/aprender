@@ -12,5 +12,7 @@
 hs_err_pid*
 
 # Proyectos de Java Web #
-/jsp/examples1/nbproject/private/
-/jsp/examples1/build/
+/jsp/basic/nbproject/private/
+/jsp/basic/build/
+/jsp/ajax/nbproject/private/
+/jsp/ajax/build/
