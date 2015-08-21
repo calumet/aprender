@@ -165,7 +165,7 @@ Implementar la tecnología [JavaServer Pages](https://es.wikipedia.org/wiki/Java
 - [Beginning JSP, JSF and Tomcat 2nd Edition](http://it-ebooks.info/book/1478)
 
 
-## JavaServer Pages y MySQL
+## MySQL
 
 Desarrollar bases de datos con MySQL y cómo conectarlas con un servidor Java en JavaServer Pages.
 
