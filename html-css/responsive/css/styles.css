@@ -1,22 +1,51 @@
 /* styles */
 
 /*
- * Basic
+ * Estructura
+ */
+
+.wrapper {
+
+  /* Controlar el ancho del contenedor */
+  max-width: 900px;
+  width: 100%;
+  min-width: 280px;
+
+  /* Hacer centrado el contenedor */
+  margin-left: auto;
+  margin-right: auto;
+}
+.row {
+  width: 100%;
+}
+[class*=column] {
+  float: left;
+}
+.column12 {width: 100%;}
+.column11 {width: 91.6%;}
+.column10 {width: 83.3%;}
+.column9  {width: 75%;}
+.column8  {width: 66.6%;}
+.column7  {width: 58.3%;}
+.column6  {width: 50%;}
+.column5  {width: 41.6%;}
+.column4  {width: 33.3%;}
+.column3  {width: 25%;}
+.column2  {width: 16.6%;}
+.column1  {width: 8.3%;}
+
+/*
+ * Básico
  */
 
 body {
   margin: 20px;
   font-size: 16px;
   line-height: 1.5;
+  color: #555;
 
   /* Utilizar una fuente de texto personalizada */
   font-family: 'Indie Flower', cursive;
-  color: #555;
-}
-
-.wrapper {
-  max-width: 900px;
-  min-width: 280px;
 }
 
 img {
