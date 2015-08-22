@@ -10,12 +10,15 @@
       // ...
     },
 
+    // Otras funciones.
     main: function () {
       // ...
     }
 
   };
 
-  document.addEventListener('load', app.init);
+  // Verificar que el DOM se ha cargado completamente y ejecutar el método
+  // de asignación de eventos al DOM.
+  window.addEventListener('load', app.init);
 
 })();
