@@ -87,7 +87,7 @@ Experimentar con el lenguaje de marcado que utiliza la web, HTML en su versión 
 
 Recursos para iniciar:
 
-- [Tutorial HTML & CSS by CodeCademy](https://www.codecademy.com/tracks/web)
+- **[Tutorial HTML & CSS by CodeCademy](https://www.codecademy.com/tracks/web)**
 - [Intro to HTML and CSS by Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 - [Introducción a XHTML](http://librosweb.es/libro/xhtml) (bases de HTML4, la mayoría todavía válidas)
 - [HTML5 doctor](http://html5doctor.com) (repertorio de etiquetas)
@@ -110,7 +110,7 @@ Recursos para iniciar:
 
 Recursos para profundizar:
 
-- [CSS3: The Missing Manual, 3rd Edition](http://it-ebooks.info/book/1356)
+- **[CSS3: The Missing Manual, 3rd Edition](http://it-ebooks.info/book/1356)**
 - [Beginning Responsive Web Design with HTML5 and CSS3](https://it-ebooks.info/book/3809/)
 
 
@@ -120,16 +120,16 @@ Aprender a desarrollar aplicaciones web dinámicas e interactivas en el lado del
 
 Recursos para iniciar:
 
-- [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)
+- **[JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)**
 - [El Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es/)
 - [Introducción a JavaScript](http://librosweb.es/libro/javascript)
 - [Eloquent JavaScript 2nd Ed](http://eloquentjavascript.net)
-- [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015)
+- **[Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015)**
 - [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 
 Recursos para profundizar:
 
-- [JavaScript: The Good Parts](http://it-ebooks.info/book/274)
+- **[JavaScript: The Good Parts](http://it-ebooks.info/book/274)**
 - [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 - [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 
@@ -142,7 +142,7 @@ Recursos para iniciar:
 
 - [Intro to jQuery by Udacity](https://www.udacity.com/course/intro-to-jquery--ud245)
 - [Fundamentos de jQuery](http://librosweb.es/libro/fundamentos_jquery)
-- [Libro de jQuery](http://librojquery.com)
+- **[Libro de jQuery](http://librojquery.com)**
 - [Introducción a jQuery](http://prhone.blogspot.com/2013/05/introduccion-la-libreria-javascript.html)
 - [Manual de jQuery](http://www.desarrolloweb.com/manuales/manual-jquery.html)
 
@@ -162,7 +162,7 @@ Experimenta cómo realizar peticiones asíncronas en un sitio web para convertir
 Implementar la tecnología [JavaServer Pages](https://es.wikipedia.org/wiki/JavaServer_Pages) (de [Java EE](https://es.wikipedia.org/wiki/Java_EE)) junto con [Apache Tomcat](https://es.wikipedia.org/wiki/Tomcat) para crear servidor web.
 
 - [JSP Tutorial](http://www.tutorialspoint.com/jsp)
-- [Beginning JSP, JSF and Tomcat 2nd Edition](http://it-ebooks.info/book/1478)
+- **[Beginning JSP, JSF and Tomcat 2nd Edition](http://it-ebooks.info/book/1478)**
 
 
 ## MySQL
