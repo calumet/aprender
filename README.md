@@ -6,7 +6,7 @@ Se asumen conocimientos en programación orientada a objetos, experiencia básic
 
 <img src="tech-logos.png" alt="Logos de tecnologías implementadas en Calumet">
 
-Si es un instructor, puede usar algunas de las directivas en la [guía para instructores](instructors.md). 
+Si es un instructor, puede usar algunas de las directivas en la [guía para instructores](instructors.md).
 
 
 ## Herramientas
@@ -105,7 +105,7 @@ Manos en el diseño de páginas web modernas y dinámicas con CSS en su versión
 Recursos para iniciar:
 
 - [Introducción a CSS](http://librosweb.es/libro/css) (CSS2.1 todavía válido)
-- [Learn CSS Layout](http://learnlayout.com)
+- [Aprende maquetación CSS](http://es.learnlayout.com)
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 
 Recursos para profundizar:
